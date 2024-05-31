@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     cout<<"ask"<<endl;
-
-return 0;
+    int n;
+    cin>>n;
+    return 0;
 }
