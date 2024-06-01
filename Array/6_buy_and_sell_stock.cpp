@@ -23,7 +23,6 @@ public:
        return max_profit;
     }
 };
-
 /*
    Aproach two for loop isgiving tle 
 
