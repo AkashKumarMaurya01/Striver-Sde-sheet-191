@@ -18,3 +18,7 @@ public:
         
     }
 };
+/*
+   first i had mapped all element freqency and then find the value if the number whose frequency is greater than n/2 and also greatest among all the the number whose freq is greater than n/2.
+
+ */
